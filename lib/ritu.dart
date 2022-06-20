@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 void main(List<String> args) {
   runApp(MaterialApp(
     home: Scaffold(
-      appBar: AppBar(title: Text("KYA HAI")),
+      appBar: AppBar(title: Text("hiiii HAI")),
       // body:SafeArea(child: Image(image: NetworkImage('https://w0.peakpx.com/wallpaper/1006/277/HD-wallpaper-ek-pagal-ek-pagal.jpg'))),
       // body:SafeArea(child: Image(image:AssetImage('lib/img/download.jpg'),height: 300,width: 100, )),
       body:SafeArea(
